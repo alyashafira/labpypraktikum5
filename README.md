@@ -39,7 +39,9 @@
 
    3.) Dan untuk menampilkan data yang telah kita input , kita bisa ketik kembali huruf "l" Untuk melihat data yang telah kita input didalam tabel, beserta perhitungan Nilai akhir dari ketiga Nilai yang telah diinput. Berikut hasil dari data yang kita input dan perhitungan nilai akhir yang ditampilkan didalam tabel
 
+   ![3](https://user-images.githubusercontent.com/56963083/70327598-bbd2ab80-1869-11ea-9073-13601476d42b.PNG)
 
+   ![4](https://user-images.githubusercontent.com/56963083/70327643-d73db680-1869-11ea-93b3-13ebf99f0250.PNG)
 
   
   
