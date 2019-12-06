@@ -33,8 +33,13 @@
   
    1.) Menu pilihan "l" tanpa menambahkan menu "t" hanya untuk mengeluarkan tabel Kosong
 
+   ![2](https://user-images.githubusercontent.com/56963083/70321730-ad30c800-185a-11ea-9238-3f16966799ca.PNG)
    
-   
-  
+   2.) Untuk menginput data, kita bisa mengetik huruf "t", lalu muncul tampilan untuk mengisi mulai dari (Nama, Nim, Nilai Tugas, Nilai UTS, dan Nilai UAS) 
+
+   3.) Dan untuk menampilkan data yang telah kita input , kita bisa ketik kembali huruf "l" Untuk melihat data yang telah kita input didalam tabel, beserta perhitungan Nilai akhir dari ketiga Nilai yang telah diinput. Berikut hasil dari data yang kita input dan perhitungan nilai akhir yang ditampilkan didalam tabel
+
+
+
   
   
