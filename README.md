@@ -12,19 +12,26 @@
    
    PROGRAM INPUT NILAI DENGAN DICTIONARY
 
-   Dengan menampilkan menu pilihan
-
-   L)ihat   ==> Untuk Menampilkan Tabel.
- 
-   T)ambah  ==> Untuk Menambahkan Data seperti : (Nim, Nama, Nilai Tugas, Nilai UTS, Nilai UAS, dan Nilai Akhir)
- 
-   U)bah    ==> Untuk Mengubah Data yang telah Diinput. 
-
-   H)apus   ==> Untuk Menghapus Data yang diinput dengan mengetik (Nama) 
-
-   C)ari    ==> Untuk Mencari Data yang Telah Diinput dengan mengetik (Nama) 
+       Buatlah sebuah dictionary kosong seperti (data{}) 
+        
+       Gunakan perulangan while untuk memasukan menu pilihan, seperti : lihat, tambah, ubah, hapus, cari. 
    
-   K)eluar  ==> Untuk Keluar dari Program
+
+       Dengan menampilkan menu pilihan yang berguna untuk :
+
+       L)ihat   ==> Untuk Menampilkan Tabel.
+ 
+       T)ambah  ==> Untuk Menambahkan Data seperti : (Nim, Nama, Nilai Tugas, Nilai UTS, Nilai UAS, dan Nilai Akhir)
+ 
+       U)bah    ==> Untuk Mengubah Data yang telah Diinput. 
+
+       H)apus   ==> Untuk Menghapus Data yang diinput dengan mengetik (Nama) 
+
+       C)ari    ==> Untuk Mencari Data yang Telah Diinput dengan mengetik (Nama) 
+   
+       K)eluar  ==> Untuk Keluar dari Program
+      
+       
 
 
 
@@ -42,6 +49,8 @@
    ![3](https://user-images.githubusercontent.com/56963083/70327598-bbd2ab80-1869-11ea-9073-13601476d42b.PNG)
 
    ![4](https://user-images.githubusercontent.com/56963083/70327643-d73db680-1869-11ea-93b3-13ebf99f0250.PNG)
+
+   
 
   
   
