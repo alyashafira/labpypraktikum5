@@ -49,15 +49,19 @@
 # INILAH HASIL DARI PROGRAM KETIKA DIJALAKAN
 
 **Gambar 1**
+
 ![11](https://user-images.githubusercontent.com/56963083/70376898-b5633300-1940-11ea-8d22-ae9fc689d8a3.PNG)
 
 **Gambar 2**
+
 ![22](https://user-images.githubusercontent.com/56963083/70376917-d1ff6b00-1940-11ea-95ff-87f8d05790af.PNG)
 
 **Gambar 3**
+
 ![33](https://user-images.githubusercontent.com/56963083/70376922-d75cb580-1940-11ea-98bb-db5be8005291.PNG)
 
 **Gambar 4**
+
 ![44](https://user-images.githubusercontent.com/56963083/70376928-db88d300-1940-11ea-84b5-3092bead06b1.PNG)
 
 
