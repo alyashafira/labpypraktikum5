@@ -12,12 +12,26 @@
    
    PROGRAM INPUT NILAI DENGAN DICTIONARY
 
-       Buatlah sebuah dictionary kosong seperti (data{}) 
+       1.) Buatlah sebuah dictionary kosong seperti (data{}) 
         
-       Gunakan perulangan while untuk memasukan menu pilihan, seperti : lihat, tambah, ubah, hapus, cari. 
-   
+       2.) Gunakan perulangan while untuk memasukan menu pilihan, seperti : lihat, tambah, ubah, hapus, cari.
+       
+       3.) Lalu gunakan kondisi if, elif, dan else untuk menjalankan menu pilihan tersebut.
+       
+       4.) Gunakan looping for ( for x in data.items() ), lalu masukkan perintah print data dictionary.
+       
+       5.) Untuk perintah Add (menambahkan), inputkan data yang ingin Anda masukkan, seperti: Nama, Kelas, NIM, Nilai Tugas, Nilai UTS,            Nilai UAS. Nilai Akhir dihitung dengan menggunakan rumus (Nilai Tugas * 30%) + (Nilai UTS * 35%) + (Nilai UAS * 35%).   
+       
+       6.) Lalu menu untuk perintah Edit (mengubah). Inputkan data[NM] yang akan diedit. Gunakan kondisi if lagi ( if NM in                        data.keys() ), jika hasil ialah True maka Anda akan disuruh menginputkan data perubahannya. Tetapi jika hasilnya False, maka            akan tercetak “Data ... tidak ada” dan muncul perintah untuk memasukkan inputan menu lagi.
+       
+       7.) Menu dengan perintah Delete (menghapus). Inputkan data[NM] yang akan di hapus,dengan menggunakan kondisi if, jika hasilnya              adalah True maka data akan terhapus dengan menggunakan perintah del data[NM], dan jika hasilnya False maka akan tercetak                “data{0} tidak ada” dan muncul perintah untuk memasukkan inputan menu lagi.
+       
+       8.) Yang terakhir adalah menu dengan perintah search (mencari). Inputkan data[NM] yang akan dicari. Gunakan kondisi if , jika                hasilnya True maka akan tercetak data yang dicari dengan menggunakan perintah print data (NM, data[NM]). Dan jika hasilnya              False maka akan tercetak “data{0} tidak ada” dan muncul perintah untuk memasukkan inputan menu lagi.
+       
+       9.) Kondisi yang terakhir menggunakan else, jika menu yang Anda inputkan tidak ada pada menu maka Anda akan disuruh untuk                    menginputkan menu pilihan yang tersedia saja pada program.
+       
 
-       Dengan menampilkan menu pilihan yang berguna untuk :
+       Ini adalah menu pilihan yang berguna untuk :
 
        L)ihat   ==> Untuk Menampilkan Tabel.
  
@@ -32,24 +46,8 @@
        K)eluar  ==> Untuk Keluar dari Program
       
        
-
-
-
-  **Hasil dari Program Input Nilai**
-  ![1](https://user-images.githubusercontent.com/56963083/70318790-6f7c7100-1853-11ea-8ab7-caebf8e380a3.PNG)
-  
-   1.) Menu pilihan "l" tanpa menambahkan menu "t" hanya untuk mengeluarkan tabel Kosong
-
-   ![2](https://user-images.githubusercontent.com/56963083/70321730-ad30c800-185a-11ea-9238-3f16966799ca.PNG)
+# INILAH HASIL DARI PROGRAM KETIKA DIJALAKAN
    
-   2.) Untuk menginput data, kita bisa mengetik huruf "t", lalu muncul tampilan untuk mengisi mulai dari (Nama, Nim, Nilai Tugas, Nilai UTS, dan Nilai UAS) 
-
-   3.) Dan untuk menampilkan data yang telah kita input , kita bisa ketik kembali huruf "l" Untuk melihat data yang telah kita input didalam tabel, beserta perhitungan Nilai akhir dari ketiga Nilai yang telah diinput. Berikut hasil dari data yang kita input dan perhitungan nilai akhir yang ditampilkan didalam tabel
-
-   ![3](https://user-images.githubusercontent.com/56963083/70327598-bbd2ab80-1869-11ea-9073-13601476d42b.PNG)
-
-   ![4](https://user-images.githubusercontent.com/56963083/70327643-d73db680-1869-11ea-93b3-13ebf99f0250.PNG)
-
    
 
   
