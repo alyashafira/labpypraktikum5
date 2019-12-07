@@ -48,17 +48,20 @@
        
 # INILAH HASIL DARI PROGRAM KETIKA DIJALAKAN
 
+**Gambar 1**
+![11](https://user-images.githubusercontent.com/56963083/70376898-b5633300-1940-11ea-8d22-ae9fc689d8a3.PNG)
 
-![tambah2](https://user-images.githubusercontent.com/56963083/70373505-2263d200-191b-11ea-8a34-68db97ee7cbf.PNG)
+**Gambar 2**
+![22](https://user-images.githubusercontent.com/56963083/70376917-d1ff6b00-1940-11ea-95ff-87f8d05790af.PNG)
+
+**Gambar 3**
+![33](https://user-images.githubusercontent.com/56963083/70376922-d75cb580-1940-11ea-98bb-db5be8005291.PNG)
+
+**Gambar 4**
+![44](https://user-images.githubusercontent.com/56963083/70376928-db88d300-1940-11ea-84b5-3092bead06b1.PNG)
 
 
-![ubah](https://user-images.githubusercontent.com/56963083/70373540-48897200-191b-11ea-9b95-f2c98c7a8347.PNG)
-
-
-![lihat cari](https://user-images.githubusercontent.com/56963083/70373543-517a4380-191b-11ea-8720-cc7fc4544f64.PNG)
-
-
-![hapus, kelua](https://user-images.githubusercontent.com/56963083/70373547-5a6b1500-191b-11ea-92b6-fa9adc3afff7.PNG)
+**SEMOGA BERKAH DAN BERMANFAAT**
 
 
    
