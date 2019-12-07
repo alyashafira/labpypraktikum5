@@ -61,7 +61,7 @@
 ![44](https://user-images.githubusercontent.com/56963083/70376928-db88d300-1940-11ea-84b5-3092bead06b1.PNG)
 
 
-**SEMOGA BERKAH DAN BERMANFAAT :clap: **
+**SEMOGA BERKAH DAN BERMANFAAT** :clap:
 
 
    
