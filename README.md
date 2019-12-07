@@ -47,6 +47,20 @@
       
        
 # INILAH HASIL DARI PROGRAM KETIKA DIJALAKAN
+
+
+![tambah2](https://user-images.githubusercontent.com/56963083/70373505-2263d200-191b-11ea-8a34-68db97ee7cbf.PNG)
+
+
+![ubah](https://user-images.githubusercontent.com/56963083/70373540-48897200-191b-11ea-9b95-f2c98c7a8347.PNG)
+
+
+![lihat cari](https://user-images.githubusercontent.com/56963083/70373543-517a4380-191b-11ea-8720-cc7fc4544f64.PNG)
+
+
+![hapus, kelua](https://user-images.githubusercontent.com/56963083/70373547-5a6b1500-191b-11ea-92b6-fa9adc3afff7.PNG)
+
+
    
    
 
